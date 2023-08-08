@@ -28,6 +28,4 @@ Some of our favorite plants are the Thai Constellation Monstera, Silver Dragon A
 
 *Shame on him!*
 
-waa
-
 
