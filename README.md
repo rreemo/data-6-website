@@ -16,8 +16,14 @@ Perky plants is incredibly committed to spreading the goodness of people looking
 
 Some of our favorite plants are the Thai Constellation Monstera, Silver Dragon Alocasia, and the Pink Princess Philodendron. Take a look!
 
+<img src="./Me-Holding-a-Thai-1.jpg" style="width:50%; margin:auto; display:block">
+
+<img src="./the-alocasia-silver-dragon-is-a-little-gem-among-tropical-plants009-600x749.jpg" style="width:50%; margin:auto; display:block">
+
+<img src="./woman-holding-Pink-Princess-Philodendron.jpg" style="width:50%; margin:auto; display:block">
+
+## Look at this bad tweet!
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Elon Musk reportedly tried to sell Twitter&#39;s office plants to employees as part of his push for cash <a href="https://t.co/CjcPwEeki0">https://t.co/CjcPwEeki0</a></p>&mdash; Insider Business (@BusinessInsider) <a href="https://twitter.com/BusinessInsider/status/1632824949298561024?ref_src=twsrc%5Etfw">March 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-
-**Yeah!**
-*Italics*
