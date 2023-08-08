@@ -2,7 +2,7 @@
 
 ## Creator
 
-<img src="./IMG_6664.heic" style="width:50%; margin:auto; display:block">
+<img src="./IMG_6664.png" style="width:50%; margin:auto; display:block">
 
 Hello, my name is Ralph Mariano and I currently attend UC Berkeley as a Chemical Biology Major. I'm also a part of the SEED Scholars Program which focuses on undergraduate research.
 
